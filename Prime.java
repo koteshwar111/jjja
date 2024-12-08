@@ -11,9 +11,7 @@ public class Prime {
                 }
             }
 
-            if (count == 2) {
-                System.out.println(num);
-            }
+            
         }
     }
     
